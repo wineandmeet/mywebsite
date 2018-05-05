@@ -1,5 +1,5 @@
 baseurl = "https://relaxed-ramanujan-1e6ef2.netlify.com"
-title = "Nederburg"
+title = "Wine and Meet"
 theme = "nederburg"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,17 +10,17 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "A fast &amp; secure theme"
-  description = "Describe your website" # meta description
-  author = "Göran Svensson"
-  authorLink = "https://appernetic.io/"
+  slogan = "Wine and Life Tasting"
+  description = "Wine and Life Tasting" # meta description
+  author = "Alexandre"
+  authorLink = "https://www.meetup.com/Wine-Meet/"
   bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    "I am a wine amateur and orgnises wine tasting events in Paris.",
+    "You can join me to a wine tasting by subscribing here <a href='https://www.meetup.com/Wine-Meet/'>Appernetic.io</a>.",
+    "I look forward seeing you."
   ]
   copyright = [
-    "&copy; 2018 Göran Svensson",
-    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
-    "A port of Tracks by Compete Themes."
+    "Wine and Meet"
   ]
 
 
@@ -55,11 +55,7 @@ paginate = 5 #frontpage pagination
   weight = 3
 
   [params.social]
-  facebook      = "full profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/WineandMeet"
+  email         = "wineandmeet@gmail.com"
+  instagram     = "https://www.instagram.com/wineandmeet/"
+  meetup        = "https://www.meetup.com/Wine-Meet/"
