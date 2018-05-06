@@ -1,13 +1,12 @@
 +++
+categories = ["Wine Tasting", "Wines"]
 date = "2016-11-05T19:41:01+05:30"
-title = "This is a Standard Post"
-draft = false
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "Wine Tasting", "Wines"]
+title = "This is a Standard Post"
 weight = 1
-+++
 
++++
 This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 <!--more-->
 
