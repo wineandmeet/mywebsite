@@ -16,7 +16,7 @@ paginate = 5 #frontpage pagination
   authorLink = "https://www.meetup.com/Wine-Meet/"
   bio = [
     "I am a wine amateur and orgnises wine tasting events in Paris.",
-    "You can join me to a wine tasting by subscribing here <a href='https://www.meetup.com/Wine-Meet/'>Appernetic.io</a>.",
+    "You can join me to a wine tasting by subscribing here <a href='https://www.meetup.com/Wine-Meet/'></a>.",
     "I look forward seeing you."
   ]
   copyright = [
