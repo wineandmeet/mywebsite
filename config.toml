@@ -15,9 +15,7 @@ paginate = 5 #frontpage pagination
   author = "Alexandre"
   authorLink = "https://www.meetup.com/Wine-Meet/"
   bio = [
-    "I am a wine amateur and orgnises wine tasting events in Paris.",
-    "You can join me to a wine tasting by subscribing here <a href='https://www.meetup.com/Wine-Meet/'></a>.",
-    "I look forward seeing you."
+    "I am Alex, a wine enthusiast. You can join me for a wine tasting in Paris via <a href='https://www.meetup.com/Wine-Meet/'>meetup</a>."
   ]
   copyright = [
     "Wine and Meet"
@@ -56,6 +54,6 @@ paginate = 5 #frontpage pagination
 
   [params.social]
   facebook      = "https://www.facebook.com/WineandMeet"
-  email         = "wineandmeet@gmail.com"
+  email         = "wineandmeet@meetup.com"
   instagram     = "https://www.instagram.com/wineandmeet/"
   meetup        = "https://www.meetup.com/Wine-Meet/"

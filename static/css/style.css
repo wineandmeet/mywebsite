@@ -439,7 +439,6 @@ a img {
 }
 .site-header {
   padding: 0.75em 5.55%;
-  background-image: url("img/background.jpg")
 }
 .site-header .container {
   margin: 0 auto;
@@ -472,10 +471,10 @@ a img {
   top: -99em;
 }
 .site-title a {
-  color: red;
+  color: white;
 }
 .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active, .site-title a:focus {
-  color: red;
+  color: white;
 }
 .site-title img {
   max-width: 5em;
