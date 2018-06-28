@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wine Selection on Wine and Meet</title>
+    <link>https://relaxed-ramanujan-1e6ef2.netlify.com/categories/wine-selection/</link>
+    <description>Recent content in Wine Selection on Wine and Meet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://relaxed-ramanujan-1e6ef2.netlify.com/categories/wine-selection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>June Wine Tasting</title>
+      <link>https://relaxed-ramanujan-1e6ef2.netlify.com/post/firstpost/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://relaxed-ramanujan-1e6ef2.netlify.com/post/firstpost/</guid>
+      <description>test test</description>
+    </item>
+    
+  </channel>
+</rss>

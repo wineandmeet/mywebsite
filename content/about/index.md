@@ -5,13 +5,11 @@ title = "About me"
 
 I am Alex, a wine enthusiast.
 
-Some years ago, with my wife, we visited a vineyard and discovered how the work of the winemaker connected us to nature and culture. For sure the winemaker works with nature, mastering numerous processes before giving birth to wine. Culture as the winemaker is an artist expressing his craft through the language of wine.
+Some years ago, I visited a vineyard and discovered the work of the wine maker. He works on nature mastering numerous processes before giving birth to wine, and tries to express his art through the taste of the wine. It was an immersive experience during which I felt deeply connected.
 
-Back to Paris, I reminded these beautiful memories through the tasting of wines we brought, and only then understood the roman proverb "In Vino Veritas".
+Back to Paris, I reminded these beautiful memories through the tasting of wines brought, and only then understood the roman proverb "In Vino Veritas".
 
-With wine you connect yourself to the true: something beyond yourself (nature, culture) but yet deeply rooted in you (taste) while sharing its numerous expression with others (society).
-
-I created this website to share with you my passion. Furthermore, I created a [group][1] in Paris, organizing friendly wine tastings explaining the language of wine.
+I created this website to share with you my passion. Furthermore, I created a [group][1] in Paris, organizing friendly wine tastings during which I explain how to taste wine.
 
 See you soon.
 
