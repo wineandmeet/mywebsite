@@ -1,6 +1,6 @@
 baseurl = "https://wineandmeet.netlify.com"
 title = "Wine and Meet"
-theme = "nederburg"
+theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "wineandmeet"

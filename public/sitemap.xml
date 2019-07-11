@@ -3,62 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/post/firstpost/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <loc>https://wineandmeet.netlify.com/post/selection_poncetys/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/post/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://wineandmeet.netlify.com/categories/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/about/</loc>
+    <loc>https://wineandmeet.netlify.com/post/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.netlify.com/categories/selection/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.netlify.com/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.netlify.com/about/</loc>
     <lastmod>2018-05-06T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/contact/</loc>
+    <loc>https://wineandmeet.netlify.com/contact/</loc>
     <lastmod>2018-05-05T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/post/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/categories/wine-selection/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/categories/wine-tasting/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://relaxed-ramanujan-1e6ef2.netlify.com/categories/wines/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://wineandmeet.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

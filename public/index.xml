@@ -2,40 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine and Meet</title>
-    <link>https://relaxed-ramanujan-1e6ef2.netlify.com/</link>
+    <link>https://wineandmeet.netlify.com/</link>
     <description>Recent content on Wine and Meet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://relaxed-ramanujan-1e6ef2.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wineandmeet.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>June Wine Tasting</title>
-      <link>https://relaxed-ramanujan-1e6ef2.netlify.com/post/firstpost/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://relaxed-ramanujan-1e6ef2.netlify.com/post/firstpost/</guid>
-      <description>test test</description>
-    </item>
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>https://relaxed-ramanujan-1e6ef2.netlify.com/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Domaine des Poncetys</title>
+      <link>https://wineandmeet.netlify.com/post/selection_poncetys/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://relaxed-ramanujan-1e6ef2.netlify.com/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
+      <guid>https://wineandmeet.netlify.com/post/selection_poncetys/</guid>
+      <description>Thanks to domaine des poncetys with this les terres blanches a saint-veran appelation wine from burgundy. Enjoy it&amp;rsquo;s sunny color, aromas of honey, benzine, lemon, minerality. The body is tense due to its acidity and freshness balanced by a residual honey sweetness. At last enjoy the herbal finish. Great with sea food !</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://relaxed-ramanujan-1e6ef2.netlify.com/about/</link>
+      <link>https://wineandmeet.netlify.com/about/</link>
       <pubDate>Sun, 06 May 2018 21:05:33 +0530</pubDate>
       
-      <guid>https://relaxed-ramanujan-1e6ef2.netlify.com/about/</guid>
+      <guid>https://wineandmeet.netlify.com/about/</guid>
       <description>I am Alex, a wine enthusiast.
 Some years ago, I visited a vineyard and discovered the work of the wine maker. He works on nature mastering numerous processes before giving birth to wine, and tries to express his art through the taste of the wine. It was an immersive experience during which I felt deeply connected.
 Back to Paris, I reminded these beautiful memories through the tasting of wines brought, and only then understood the roman proverb &amp;ldquo;In Vino Veritas&amp;rdquo;.</description>
@@ -43,10 +33,10 @@ Back to Paris, I reminded these beautiful memories through the tasting of wines 
     
     <item>
       <title>Contact Me</title>
-      <link>https://relaxed-ramanujan-1e6ef2.netlify.com/contact/</link>
+      <link>https://wineandmeet.netlify.com/contact/</link>
       <pubDate>Sat, 05 May 2018 13:00:25 +0530</pubDate>
       
-      <guid>https://relaxed-ramanujan-1e6ef2.netlify.com/contact/</guid>
+      <guid>https://wineandmeet.netlify.com/contact/</guid>
       <description>You can contact me via Meetup and if you want to join us for a wine tasting, feel free to subscribe to our meetup group.</description>
     </item>
     
