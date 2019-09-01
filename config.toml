@@ -1,4 +1,4 @@
-baseurl = "https://wineandmeet.netlify.com"
+baseurl = "https://wineandmeet.net"
 title = "Wine and Meet"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
