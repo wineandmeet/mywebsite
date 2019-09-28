@@ -3,7 +3,7 @@ categories = ["Trip"]
 date = "2019-08-18"
 image = "img/saperavi_rkatsiteli.jpg"
 showonlyimage = false
-title = "Qvevri : The 2 most known Georgian wine grapes"
+title = "The 2 most known Georgian wine grapes"
 weight = 1
 +++
 
