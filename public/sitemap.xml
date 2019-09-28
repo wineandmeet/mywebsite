@@ -3,47 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wineandmeet.netlify.com/post/selection_poncetys/</loc>
+    <loc>https://wineandmeet.net/post/11emedomaine_winetasting/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.net/post/georgian_grapes/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.net/post/georgia/</loc>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.net/post/selection_poncetys/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/categories/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wineandmeet.net/categories/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/post/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wineandmeet.net/post/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/categories/selection/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wineandmeet.net/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/</loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wineandmeet.net/categories/winetasting/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/about/</loc>
+    <loc>https://wineandmeet.net/categories/trip/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.net/categories/selection/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wineandmeet.net/about/</loc>
     <lastmod>2018-05-06T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/contact/</loc>
+    <loc>https://wineandmeet.net/contact/</loc>
     <lastmod>2018-05-05T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://wineandmeet.netlify.com/tags/</loc>
-    <priority>0</priority>
+    <loc>https://wineandmeet.net/tags/</loc>
   </url>
   
 </urlset>

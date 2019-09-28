@@ -12,7 +12,7 @@ We enjoyed a great wine tasting at 11ème Domaine. Here are some notes :
 
 # Sparkling Wine
 
-![Sparkling](img/11emedomaine_sparkling.jpeg)
+![Sparkling](/img/11emedomaine_sparkling.jpeg)
 
 We began our wine tasting with a sparkling wine from Saumure, it has subtile bubbles with white flower aromas that extend into more generous while balanced taste.
 - Domain name: Chateau de Montguéret
@@ -22,7 +22,7 @@ We began our wine tasting with a sparkling wine from Saumure, it has subtile bub
 
 # White Wines
 
-![White](img/11emedomaine_whites.jpeg)
+![White](/img/11emedomaine_whites.jpeg)
 
 The first white wine was fresh with golden apple, acacia flower and  flint aromas
 - Domain name: Domaine des Terres blanches
@@ -36,7 +36,7 @@ The second white wine feeled the sun! It was generous with a lot of white flower
 
 # Red Wines
 
-![Red](img/11emedomaine_reds.jpeg)
+![Red](/img/11emedomaine_reds.jpeg)
 
 The first red wine was a subtile and fresh wine from Bourgundy. It has strawberry and fresh grass aromas while the body was acidic, fresh. A typical Burgundy wine.
 
