@@ -1,5 +1,6 @@
 +++
 categories = ["WineTasting"]
+tags =["Saumure", "Loire", "Bourgogne"]
 date = "2019-09-25"
 image = "img/11emedomaine.jpeg"
 showonlyimage = false
@@ -15,6 +16,7 @@ We enjoyed a great wine tasting at 11ème Domaine. Here are some notes :
 ![Sparkling](/img/11emedomaine_sparkling.jpeg)
 
 We began our wine tasting with a sparkling wine from Saumure, it has subtile bubbles with white flower aromas that extend into more generous while balanced taste.
+
 - Domain name: Chateau de Montguéret
 - Region : Saumure, Loire, France
 - Grapes: 60% Chenin Blanc, 20% Chardonnay, 15% Cabernet Franc, 5% Grolleau Gris
@@ -24,12 +26,14 @@ We began our wine tasting with a sparkling wine from Saumure, it has subtile bub
 
 ![White](/img/11emedomaine_whites.jpeg)
 
-The first white wine was fresh with golden apple, acacia flower and  flint aromas
+The first white wine was fresh with golden apple, acacia flower and  flint aromas.
+
 - Domain name: Domaine des Terres blanches
 - Region: Pouilly-Fumé, Loire, France
 - Grape: Sauvignon
 
 The second white wine feeled the sun! It was generous with a lot of white flower aromas, honey and had a full body with butter notes, "brioché".
+
 - Domaine Name: Clos Val Seille
 - Region: Côtes du Rhône, France
 - Grapes: Roussane, Marsanne
