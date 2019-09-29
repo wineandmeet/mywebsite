@@ -9,6 +9,15 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
+
+
 [params]
   slogan = "Wine and Life Tasting"
   description = "Wine and Life Tasting" # meta description

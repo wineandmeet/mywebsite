@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WineTasting on Wine and Meet</title>
-    <link>https://wineandmeet.net/categories/winetasting/</link>
-    <description>Recent content in WineTasting on Wine and Meet</description>
+    <title>Loire on Wine and Meet</title>
+    <link>https://wineandmeet.net/tags/loire/</link>
+    <description>Recent content in Loire on Wine and Meet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://wineandmeet.net/categories/winetasting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wineandmeet.net/tags/loire/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
