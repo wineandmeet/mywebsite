@@ -22,7 +22,14 @@ But those who visited a wineyard and noticed the hard work it represents, and th
 
 Furthermore, this point of view is swept away by recent trends. Firstly wine access has been democratized, today good wines are cheaper. Secondly environmental values have become popular, whith a better respect of the "terroir", the link to nature and the work of the wine maker.
 
-These reasons have made wine tasting popular, considering the growing number of wine bars. But to ensure a proper and authentic understanding of wine tasting, you need to master some techniques that we call the art of wine tasting.
+These reasons have made wine tasting popular, considering the growing number of wine bars. But to ensure a proper and authentic understanding of wine tasting, you need to master some techniques that we call the art of wine tasting. These techniques will enable you to :
+
+- discover new wines and new sensations.
+- overcome your bias.
+- learn the vocabulary of wine tasting.
+- share with others your sensations.
+- understand the interaction between nature, weather and the work of the wine maker.
+- enjoy the numerous subtleties of a great wine !
 
 So keep posted as we will go through the main steps of wine tasting in our next post.
 
