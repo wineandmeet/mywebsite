@@ -5,6 +5,16 @@
   <url>
     <loc>https://wineandmeet.net/post/11emedomaine_winetasting/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/post/11emedomaine_winetasting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/post/11emedomaine_winetasting/"
+                />
   </url>
   
   <url>
@@ -25,6 +35,16 @@
   <url>
     <loc>https://wineandmeet.net/tags/bourgogne/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/tags/bourgogne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/tags/bourgogne/"
+                />
   </url>
   
   <url>
@@ -45,16 +65,46 @@
   <url>
     <loc>https://wineandmeet.net/tags/loire/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/tags/loire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/tags/loire/"
+                />
   </url>
   
   <url>
     <loc>https://wineandmeet.net/post/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/post/"
+                />
   </url>
   
   <url>
     <loc>https://wineandmeet.net/tags/saumure/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/tags/saumure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/tags/saumure/"
+                />
   </url>
   
   <url>
@@ -90,6 +140,16 @@
   <url>
     <loc>https://wineandmeet.net/categories/winetasting/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wineandmeet.net/fr/categories/winetasting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wineandmeet.net/categories/winetasting/"
+                />
   </url>
   
   <url>
