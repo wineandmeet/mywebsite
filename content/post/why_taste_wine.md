@@ -1,11 +1,11 @@
 +++
-categories    = ["WineTasting"]
-tags          = ["Wine Tasting"]
-date          = "2019-10-25"
-image         = "img/why_wine_tasting.jpg"
+categories = ["WineTasting"]
+tags = ["Wine Tasting"]
+date = "2019-10-19"
+image = "img/why_wine_tasting.jpg"
 showonlyimage = false
-title         = "Why we should taste wine ?"
-weight        = 1
+title = "Why we should taste wine ?"
+weight = 1
 +++
 
 Taste and smell are the poorest developped senses in human beings. Contrary to dogs, you do not recognize you best friend my his smell :-)
