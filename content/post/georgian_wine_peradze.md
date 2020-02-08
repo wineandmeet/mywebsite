@@ -4,7 +4,7 @@ tags =["Georgia"]
 date = "2020-02-08"
 image = "img/Peradze-Saperavi.jpg"
 showonlyimage = false
-title = "Wine Tasting at 11ème Domaine"
+title = "Peradze Winery, Saperavi"
 weight = 1
 +++
 
